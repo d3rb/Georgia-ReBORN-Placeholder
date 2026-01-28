@@ -16,54 +16,87 @@
 
 
 
-# Placeholder for Georgia-ReBORN Theme "Skin"
+Placeholder for Georgia-ReBORN Theme
+===================================
 
+Übersicht
+---------
 
-I added "three" custom themes and "twelve" Reel to Reel Tapes and "twelve" Vinyl Placeholders.
+Dies ist ein Benutzer-Placeholder-Paket für das Foobar2000-Theme
+Georgia-ReBORN – einer modernen, dynamisch farbwechselnden und stark
+anpassbaren Foobar2000-Oberfläche.
 
+Dieses Repository erweitert Georgia-ReBORN um:
 
+- 12 Vinyl-Platzhalterbilder
+- 12 Reel-to-Reel-Tape-Platzhalter
+- 3 benutzerdefinierte Custom-Themes
 
-## Recommendation:
+Die Grafiken wurden von mir fotografiert und bearbeitet (erste
+Photoshop-Versuche), um das visuelle Erlebnis von Georgia-ReBORN zu
+ergänzen.
 
-> The Pink.Colors theme: The best matches with "RTM.LPR90.Pink" and "SONY.Pink.EMPTY" and "Vinyl.Rosé.1"
+Empfehlung
+----------
 
-> Orange.Dream theme: The best matches with "Airbrush.R2R.Orange"
+Die benutzerdefinierten Themes harmonieren besonders gut mit bestimmten
+Placeholders:
 
-> Planet.Freddie theme: The best matches with "Airbrush.R2R.Freddy" and "Airbrush.R2R.Planet" and "Airbrush.R2R.Universe"
+Custom Theme: Pink.Colors  
+Empfohlene Placeholders:
+- RTM.LPR90.Pink
+- SONY.Pink.EMPTY
+- Vinyl.Rosé.1
 
+Custom Theme: Orange.Dream  
+Empfohlene Placeholders:
+- Airbrush.R2R.Orange
 
+Custom Theme: Planet.Freddie  
+Empfohlene Placeholders:
+- Airbrush.R2R.Freddy
+- Airbrush.R2R.Planet
+- Airbrush.R2R.Universe
 
-## how to use:
+Installation
+------------
 
-Download the zip folder, unpack it, and copy the "profiles" folder into your Foobar root directory. -> "where the Georgia-ReBORN theme is also located"
+1. Lade dieses Repository als ZIP herunter oder klone es.
+2. Entpacke das Archiv.
+3. Kopiere den enthaltenen Ordner "profiles" in das Root-Verzeichnis
+   deiner Foobar2000-Installation (dort, wo Georgia-ReBORN bereits
+   installiert ist).
+4. Starte Foobar2000 neu.
+5. Öffne:
+   Details → Disc art placeholder  
+   und wähle dort die neuen Vinyl- oder Tape-Platzhalter aus.
 
-> you can set the custom placeholder via -> Details options menu -> Disc art placeholder -> and set what like :)
+Optionale Anpassungen können in der Datei
+"profile/georgia-reborn/configs/georgia-reborn-custom.jsonc"
+vorgenommen werden.
 
-> you can manually edit "georgia-reborn-custom.jsonc" if you like.
+Hinweise
+--------
 
+- Alle Vinyls und Tape-Reels wurden von mir fotografiert und bearbeitet.
+- Die Grafiken sind nicht perfekt, aber mit viel Spaß und Liebe
+  entstanden.
+- Eigene Anpassungen können direkt über die Custom-Config erfolgen.
+- Weitere Placeholders und Styles sind in Zukunft geplant.
 
-## File location:
+Danksagung
+----------
 
-> "profile/georgia-reborn/configs/georgia-reborn-custom.jsonc"
+Vielen Dank an:
 
->Notes:
+- TT-ReBORN für das Georgia-ReBORN Theme  
+  https://github.com/TT-ReBORN/Georgia-ReBORN
 
-"All vinyls and tape reels are my own property.
-They were photographed and edited in Photoshop.
-I've never used Photoshop before, so my placeholders are not perfect,
-but i like it a bit. ;D
+- Mordred für das originale Georgia Theme  
+  https://github.com/kbuffington
 
+Lizenz
+------
 
->Future plans: do some things better :)<
-
-greetings
-
-d3rb
-
-
-# Thanks
-
-> Many thanks to TT "https://github.com/TT-ReBORN/" for the new interpretation of this Skin!!
-
-
-Many thanks to Mordred "https://github.com/kbuffington" for his original Georgia theme
+Dieses Projekt übernimmt die Open-Source-Lizenz des Georgia-ReBORN-Projekts.
+Details zur Lizenz sind im Hauptrepository von Georgia-ReBORN zu finden.
